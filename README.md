@@ -1,4 +1,4 @@
-# Html5CanvasApplication
+# Html5CanvasApplicationSnakeGame
 
 In this game of "Snake" I haven't used any libraries. This game is purely default JavaScript. 
 
